@@ -35,7 +35,15 @@
 **CV Expert** is a Streamlit-based web application that leverages **Google Gemini 1.5 Flash** to provide deep, context-aware analysis of resumes against job descriptions. Whether you're a candidate looking to improve your profile or an HR professional screening applicants, this tool offers instant, actionable feedback.
 
 ---
-
+## 📸 Screenshots
+ 
+### 🏠 Home Page — Espace Stagiaire
+![Home Page](screenshot-homepage.png)
+ 
+### 🔍 CV Analyzer — Upload & Analyze
+![CV Analyzer](screenshot-analyzer.png)
+ 
+---
 ## ✨ Features
 
 | Feature | Description |
